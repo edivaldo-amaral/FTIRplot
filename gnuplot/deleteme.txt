@@ -1,0 +1,4 @@
+Análise  Diferença  Valor P
+1        2          0.05
+2        3          0.01
+3        4          0.001

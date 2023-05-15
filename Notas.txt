@@ -1,0 +1,5 @@
+-Inserir título da janela.
+-Verificar por que não abre arquivos com acentos.
+
+Implementações futuras:
+Abrir mais de um espectro.
