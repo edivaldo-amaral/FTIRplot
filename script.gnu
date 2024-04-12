@@ -19,4 +19,4 @@ set bmargin 5
 set tmargin 3
 set rmargin 4
 set lmargin 11
-plot 'C:\FTIRplot\arquivo - Copia.dpt' with lines lw 1 linecolor rgb "black" title "Dados"
+plot 'C:\FTIRplot\arquivo.dpt' with lines lw 1 linecolor rgb "black" title "Dados"
