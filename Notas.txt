@@ -3,3 +3,4 @@
 
 Implementações futuras:
 Abrir mais de um espectro.
+Exportar para PDF
